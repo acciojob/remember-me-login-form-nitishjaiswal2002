@@ -1,7 +1,7 @@
 //your JS code here. If required.
  document.addEventListener('DOMContentLoaded', function() {
             const form = document.getElementById('loginForm');
-            const rememberCheckbox = document.getElementById('remember');
+            const rememberCheckbox = document.getElementById('checkbox');
             const existingUserButton = document.getElementById('existing');
 
             // Check if there are saved details in local storage
